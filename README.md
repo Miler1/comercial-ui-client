@@ -1,6 +1,7 @@
 # ComercialUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
+Developed with libraries PrimeNG.
 
 ## Development server
 
